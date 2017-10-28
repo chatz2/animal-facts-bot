@@ -1411,6 +1411,7 @@ MANTIS_SHRIMP_FACTS = (
     'Mantis Shrimp can make a low growling sounds and often grunt at dawn and dusk.',
     'Stomatopods, like Mantis Shrimp, are older than dinosaurs.'
     )
+    'Mantis shrimps have the most complex eyes in the animal kingdom that can see ultraviolet and polarized light. They have trinocular vision which means that they can see one objects using one of the three different parts of eye.'
 
 MEERKAT_FACTS = (
     'Meerkats can spot an eagle in flight more than a thousand feet away.',
