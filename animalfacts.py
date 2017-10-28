@@ -1,6 +1,6 @@
 ﻿import re
 import praw
-import random
+import randomJUT FUCK MYSHIT UP FAM
 import time
 import sys
 import string
