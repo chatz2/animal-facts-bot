@@ -1411,7 +1411,9 @@ MANTIS_SHRIMP_FACTS = (
     'Mantis Shrimp can make a low growling sounds and often grunt at dawn and dusk.',
     'Stomatopods, like Mantis Shrimp, are older than dinosaurs.'
     )
-
+    '
+Attack of mantis shrimps happens extremely quickly - 50 times faster than the blink of an eye. With velocity of 10 meters per second, their punch has the power of a .22 caliber bullet.'
+    )
 MEERKAT_FACTS = (
     'Meerkats can spot an eagle in flight more than a thousand feet away.',
     'Meerkats, or suricates, are a type of mongoose that live in the southern African plains.',
