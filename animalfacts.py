@@ -5,7 +5,7 @@ import time
 import sys
 import string
 from pygame import mixer
-# from '/' import lists
+# from '/' import listsJKKJJKJKKJ
 
 BLACKLIST = (
     'suicidewatch',
