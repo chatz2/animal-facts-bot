@@ -1389,7 +1389,7 @@ MANTIS_SHRIMP_FACTS = (
     'Mantis Shrimp can make a low growling sounds and often grunt at dawn and dusk.',
     'Stomatopods, like Mantis Shrimp, are older than dinosaurs.'
     )
-    '
+        'Some species of mantis shrimp are monogamous and spend up to 20 years together. During the mating rituals, mantis shrimps often fluoresce.'
 Attack of mantis shrimps happens extremely quickly - 50 times faster than the blink of an eye. With velocity of 10 meters per second, their punch has the power of a .22 caliber bullet.'
     )
 MEERKAT_FACTS = (
